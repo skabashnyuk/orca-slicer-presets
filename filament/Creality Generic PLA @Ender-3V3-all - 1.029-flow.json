@@ -1,0 +1,19 @@
+{
+    "filament_flow_ratio": [
+        "1.029"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA @Ender-3V3-all - 1.029-flow"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA @Ender-3V3-all - 1.029-flow",
+    "version": "1.9.0.2"
+}

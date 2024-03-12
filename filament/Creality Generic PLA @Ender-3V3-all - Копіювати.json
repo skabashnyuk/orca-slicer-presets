@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "Creality Generic PLA @Ender-3V3-all - Копіювати"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA @Ender-3V3-all - Копіювати",
+    "version": "1.9.0.2"
+}
