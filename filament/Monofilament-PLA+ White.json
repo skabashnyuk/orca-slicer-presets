@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "Monofilament-PLA+ White"
+    ],
+    "filament_vendor": [
+        "Monofilament"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Monofilament-PLA+ White",
+    "version": "1.9.0.2"
+}
