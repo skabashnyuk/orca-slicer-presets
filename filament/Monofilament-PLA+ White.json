@@ -1,4 +1,7 @@
 {
+    "enable_pressure_advance": [
+        "1"
+    ],
     "filament_flow_ratio": [
         "0.98784"
     ],
@@ -12,5 +15,8 @@
     "inherits": "Creality Generic PLA @Ender-3V3-all",
     "is_custom_defined": "0",
     "name": "Monofilament-PLA+ White",
+    "pressure_advance": [
+        "0.068"
+    ],
     "version": "1.9.0.2"
 }
