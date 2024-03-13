@@ -6,7 +6,7 @@
         "1.029"
     ],
     "filament_settings_id": [
-        "Creality Generic PLA @Ender-3V3-all - 1.029-flow-pa"
+        "Creality PLA Plus"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -17,7 +17,7 @@
     ],
     "inherits": "Creality Generic PLA @Ender-3V3-all",
     "is_custom_defined": "0",
-    "name": "Creality Generic PLA @Ender-3V3-all - 1.029-flow-pa",
+    "name": "Creality PLA Plus",
     "pressure_advance": [
         "0.05"
     ],
