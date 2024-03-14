@@ -15,10 +15,19 @@
         "Monofilament"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
     "inherits": "Creality Generic PLA @Ender-3V3-all",
     "is_custom_defined": "0",
     "name": "Monofilament-PLA+ White",
     "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
         "210"
     ],
     "pressure_advance": [
