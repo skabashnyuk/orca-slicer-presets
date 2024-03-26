@@ -8,8 +8,5 @@
     "print_host": "http://192.168.1.60:4409/",
     "print_host_webui": "http://192.168.1.60:4409/",
     "printer_settings_id": "Ender-3 V3 KE 0.4 nozzle",
-    "retraction_length": [
-        "0.25"
-    ],
     "version": "1.9.0.2"
 }
