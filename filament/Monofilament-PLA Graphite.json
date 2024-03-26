@@ -1,0 +1,37 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "660"
+    ],
+    "filament_flow_ratio": [
+        "0.98784"
+    ],
+    "filament_settings_id": [
+        "Monofilament-PLA Graphite"
+    ],
+    "filament_vendor": [
+        "Monofilament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Monofilament-PLA Graphite",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.068"
+    ],
+    "version": "1.9.0.2"
+}
